@@ -1,1 +1,1 @@
-Prodigy Task 03-Tic Tac Toe Game
+PRODIGY TASK 03 Tic-Tac-Toe Web application
